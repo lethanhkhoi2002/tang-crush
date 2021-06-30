@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'không hãy cứ thích tao',
     btnNo: 'có, mày yêu người khác đi :(',
     question:'tại sao mày lại không muốn vậy <3',
-    btnReply: 'trả lời đi <3',
+    btnReply: 'trả lời xong thì ấn vô đây <3',
     reply: 'vậy à nếu vậy tao sẽ tiếp tục thích mày',
     mess: 'tao sẽ thích mày 🥰. tới khi mày có chồng thì thôi 😘😘',
     messDesc: 'vậy nhá khi nào rảnh thì kéo rank LQ cho tao .',
